@@ -10,7 +10,8 @@
 ```bash
 git clone <url>
 
-#Listing Local Branches
+```bash
+# 2. Listing Local Branches
 git branch
 
 #Creating a New Branch
