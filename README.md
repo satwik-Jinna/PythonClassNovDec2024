@@ -6,7 +6,7 @@
 ## Git Commands
 
 # 1. Cloning the Repository
-# (Not needed if you're using GitHub Codespaces)
+
 ```bash
 git clone <url>
 
