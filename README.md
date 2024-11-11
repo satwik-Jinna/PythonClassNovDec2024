@@ -19,31 +19,49 @@ git branch
 git checkout -b class01
 ```
 
-#Viewing the Latest Local Changes
+# 4. Viewing the Latest Local Changes
+```bash
 git status
+```
 
-#Viewing Changes in a Specific File
+# 5. Viewing Changes in a Specific File
+```bash
 git diff README.md
+```
 
-#Staging Changes
+# 6. Staging Changes
+```bash
 git add <filename>
+```
 
-#Committing Changes
+# 7. Committing Changes
+```bash
 git commit -m "commit message"
+```
  
-#Pushing Changes to the Remote Repository 
+# 8. Pushing Changes to the Remote Repository 
+```bash
 git push origin <branch>
+```
 
-# Daily Workflow
-#Checking if Your Branch is Clean
+### Daily Workflow
+# 9. Checking if Your Branch is Clean
+```bash
 git status
+```
 
-#Switching to the Main Branch
+# 10. Switching to the Main Branch
+```bash
 git checkout main
+```
 
-#Pulling the Latest Changes from Main
+# 11. Pulling the Latest Changes from Main
+```bash
 git pull origin main
+```
 
-#Creating a New Branch for New Changes
+# 12. Creating a New Branch for New Changes
+```bash
 git checkout -b <newbranchname>
+```
 
