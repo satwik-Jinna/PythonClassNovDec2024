@@ -6,16 +6,18 @@
 ## Git Commands
 
 # 1. Cloning the Repository
-
 ```bash
 git clone <url>
-
-```bash
+```
 # 2. Listing Local Branches
+```bash
 git branch
+```
 
-#Creating a New Branch
+# 3. Creating a New Branch
+```bash
 git checkout -b class01
+```
 
 #Viewing the Latest Local Changes
 git status
