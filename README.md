@@ -60,7 +60,7 @@ git checkout main
 git pull origin main
 ```
 
-# 12. Creating a New Branch for New Changes
+## 12. Creating a New Branch for New Changes
 ```bash
 git checkout -b <newbranchname>
 ```
